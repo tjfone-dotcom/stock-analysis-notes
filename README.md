@@ -5,6 +5,7 @@
 ## 등록 종목
 
 - [AppLovin Corporation (APP)](xnas/app.md): Axon 광고 엔진의 지속성, 성장률 정상화, 단일 제품·플랫폼 의존과 신규 진입 가격
+- [DICK'S Sporting Goods, Inc. (DKS)](xnys/dks.md): DICK'S 본업의 질, Foot Locker 턴어라운드, 대규모 설비투자와 실적 후 신규 진입 가격
 - [Meta Platforms (META)](xnas/meta.md): 광고 사업의 AI 수익화, 인프라 자본집약도, 청소년 안전 소송과 신규 진입 가격
 - [QXO, Inc. (QXO)](xnys/qxo.md): Beacon·Kodiak·TopBuild 통합, 완전희석 자본구조, 디레버리징과 신규 진입 가격
 
