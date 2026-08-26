@@ -9,6 +9,6 @@
 - [Meta Platforms (META)](xnas/meta.md): 광고 사업의 AI 수익화, 인프라 자본집약도, 청소년 안전 소송과 신규 진입 가격
 - [QXO, Inc. (QXO)](xnys/qxo.md): Beacon·Kodiak·TopBuild 통합, 완전희석 자본구조, 디레버리징과 신규 진입 가격
 - [현대글로비스 (086280)](xkrx/086280.md): 해운 마진 정상화, 현대차그룹 고객 집중도, 선대 투자와 신규 진입 가격
-- [NIKE, Inc. (NKE)](xnys/nke.md): 관세 환급을 제거한 기저 이익, Running·도매 회복, 중국·Digital 점유율과 신규 진입 가격
+- [NIKE, Inc. (NKE)](xnys/nke.md): 관세 환급 시점 왜곡과 FY27 이익, Running·도매 회복, 중국·Digital 점유율과 신규 진입 가격
 
 새 종목은 [종목 노트 템플릿](_template.md)을 복사하고 이 목록에 추가한다.
