@@ -6,6 +6,7 @@
 
 - [AppLovin Corporation (APP)](xnas/app.md): Axon 광고 엔진의 지속성, 성장률 정상화, 단일 제품·플랫폼 의존과 신규 진입 가격
 - [DICK'S Sporting Goods, Inc. (DKS)](xnys/dks.md): 2Q26 실적 미스, Foot Locker 적자 전환, 가이던스 하향과 재설정한 신규 진입 가격
+- [Icahn Enterprises L.P. (IEP)](xnas/iep.md): NAV 프리미엄, 유닛 분배에 따른 희석, Holding Company 부채와 신규 진입 조건
 - [Meta Platforms (META)](xnas/meta.md): 광고 사업의 AI 수익화, 인프라 자본집약도, 청소년 안전 소송과 신규 진입 가격
 - [QXO, Inc. (QXO)](xnys/qxo.md): Beacon·Kodiak·TopBuild 통합, 완전희석 자본구조, 디레버리징과 신규 진입 가격
 - [현대글로비스 (086280)](xkrx/086280.md): 해운 마진 정상화, 현대차그룹 고객 집중도, 선대 투자와 신규 진입 가격
