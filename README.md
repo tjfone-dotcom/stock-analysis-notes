@@ -4,6 +4,9 @@
 
 ## 등록 종목
 
+- [ACE 미국달러SOFR금리(합성) (456880)](xkrx/456880.md): 달러 대기자금 용도, 원화 유동성의 환율 위험과 조건부 비중
+- [KODEX 머니마켓액티브 (488770)](xkrx/488770.md): 원화 대기자금 코어 60%, 초단기 신용·금리 위험과 순성과
+- [TIGER CD1년금리액티브(합성) (475630)](xkrx/475630.md): 원화 대기자금 보조 40%, 일할 금리 누적·합성 위험·높은 1주 가격
 - [AppLovin Corporation (APP)](xnas/app.md): Axon 광고 엔진의 지속성, 성장률 정상화, 단일 제품·플랫폼 의존과 신규 진입 가격
 - [DICK'S Sporting Goods, Inc. (DKS)](xnys/dks.md): 2Q26 실적 미스, Foot Locker 적자 전환, 가이던스 하향과 재설정한 신규 진입 가격
 - [iShares Floating Rate Bond ETF (FLOT)](bats/flot.md): 초저듀레이션 투자등급 회사채, 은행 집중, 신용스프레드 보상과 회피 조건
