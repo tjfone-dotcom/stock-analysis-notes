@@ -13,18 +13,18 @@
 - [iShares Floating Rate Bond ETF (FLOT)](bats/flot.md): 초저듀레이션 투자등급 회사채, 은행 집중, 신용스프레드 보상과 회피 조건
 - [State Street SPDR Bloomberg 15+ Year Gilt UCITS ETF (GLTL)](xlon/gltl.md): 영국 장기 길트, 15.3년 듀레이션, 장기 공급·환율 위험과 진입선
 - [Icahn Enterprises L.P. (IEP)](xnas/iep.md): NAV 프리미엄, 유닛 분배에 따른 희석, Holding Company 부채와 신규 진입 조건
-- [iShares 7-10 Year Treasury Bond ETF (IEF)](xnas/ief.md): 미국 중기 국채, 4.7%대 YTM, 장기채 대비 우월한 위험조정수익과 분할 진입선
+- [iShares 7-10 Year Treasury Bond ETF (IEF)](xnas/ief.md): 9월 10일 금리 충격 분석, 기존 유지·신규 보류, 10년 금리 4.85% 아래 안정 후 재진입 1순위
 - [iShares UK Gilts 0-5yr UCITS ETF (IGLS)](xlon/igls.md): 영국 단기 길트, 현금 대체 한계, GBP 부채 여부와 진입 조건
 - [iShares Core UK Gilts UCITS ETF (IGLT)](xlon/iglt.md): 영국 전 만기 길트, IEF 상대가치, 발행·환율 위험과 목표 진입가
 - [JPMorgan Equity Premium Income ETF (JEPI)](arcx/jepi.md): 방어적 미국 대형주, 옵션 프리미엄, ELN 위험과 포트폴리오 비중
 - [Meta Platforms (META)](xnas/meta.md): 광고 사업의 AI 수익화, 인프라 자본집약도, 청소년 안전 소송과 신규 진입 가격
-- [iShares Preferred and Income Securities ETF (PFF)](xnas/pff.md): 우선주·후순위 하이브리드 수익, 금융기관 집중과 비중 상한
+- [iShares Preferred and Income Securities ETF (PFF)](xnas/pff.md): 9월 10일 동반 하락, 신규 보류, 금리와 금융기관 우선주 신용의 동시 안정 필요
 - [QXO, Inc. (QXO)](xnys/qxo.md): Beacon·Kodiak·TopBuild 통합, 완전희석 자본구조, 디레버리징과 신규 진입 가격
 - [Schwab U.S. Dividend Equity ETF (SCHD)](arcx/schd.md): 배당 품질과 장기 복리, 현재 밸류에이션, 네 ETF 포트폴리오 제안
 - [iShares 0-3 Month Treasury Bond ETF (SGOV)](xnys/sgov.md): 0~3개월 미국 국채, 현금성 코어 역할과 확장 인컴 포트폴리오
 - [iShares 20+ Year Treasury Bond ETF (TLT)](xnas/tlt.md): 미국 20년 이상 국채, 15년 듀레이션, 전술적 침체 헤지와 회피 가격
 - [WisdomTree Floating Rate Treasury Fund (USFR)](arcx/usfr.md): 주간 재설정 미국 국채 FRN, SGOV 대비 수익률과 대체 조건
-- [Vanguard Long-Term Corporate Bond ETF (VCLT)](xnas/vclt.md): 11.8년 듀레이션, 6%대 YTW, 금리 시나리오와 비중 상한
+- [Vanguard Long-Term Corporate Bond ETF (VCLT)](xnas/vclt.md): 9월 10일 -1.16%, 신규 보류, 30년 금리·신용스프레드 반등 조건과 듀레이션 손실 관리
 - [현대글로비스 (086280)](xkrx/086280.md): 해운 마진 정상화, 현대차그룹 고객 집중도, 선대 투자와 신규 진입 가격
 - [NIKE, Inc. (NKE)](xnys/nke.md): 관세 환급 시점 왜곡과 FY27 이익, Running·도매 회복, 중국·Digital 점유율과 신규 진입 가격
 
