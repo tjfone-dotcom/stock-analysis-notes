@@ -4,13 +4,25 @@ market_mic: "ARCX"
 ticker: "USFR"
 currency: "USD"
 aliases: ["USFR", "WisdomTree Floating Rate Treasury Fund", "위즈덤트리 변동금리 미국 국채 ETF"]
-last_reviewed_at: "2026-09-03"
+last_reviewed_at: "2026-09-29"
 decision_horizon: "1개월 이상"
 ---
 
 # WisdomTree Floating Rate Treasury Fund (USFR)
 
 ## 현재 결론
+
+- 기준시각: 2026-09-29 KST 접근. 30일 SEC 수익률 3.76%(9/25), 유효 듀레이션 0.02년·보수 0.15%(9/28).
+- 행동: **달러 대기자금 매수 후보·SGOV 대체**. 신규는 금리 인상 노출을 원할 때 선택, 기존은 유지. SGOV와 동시 편입을 금지할 필요는 없지만 실질 분산은 작다.
+- 기간·확신: 1개월 이상, 구조 적합성 중상. 절대 가격 목표는 없다. 최신 실시간 가격/NAV 괴리는 주문 전에 확인한다.
+- 엣지: 2년 만기 FRN의 이자율은 최근 13주 미국 국채 입찰금리를 따라 매주 재설정되므로 장기 고정금리 채권과 다른 노출이다. 장기금리만 오르고 단기금리가 멈추면 쿠폰도 반드시 오르는 것은 아니다.
+- 9/16 기준금리 인상으로 초단기 재설정 논지가 강화됐다. SEC의 SGOV 대비 우위는 9bp이며 비용 반영 후 비교다. 이 차이만으로 기존 SGOV를 갈아타지 않는다.
+- 12개월 자체 시나리오: 추가 인상 30% / 높은 수준 유지 45% / 인하 25%, 세전 달러 총수익 +4.0~4.8% / +3.5~4.2% / +2.5~3.5%. 평균 단기금리 경로의 설명용 가정이다.
+- 반증·손실관리: NAV 프리미엄 0.10% 초과 시 매수 보류, 추적오차 0.20%가 5거래일 지속되면 재검토. 원화 지출 예정이면 환율 위험을 먼저 평가한다.
+- 과거 모델의 현금 25% 상한·10bp 교체 기준은 일반적인 개인 자산배분 규칙이 아니다.
+- 출처: [USFR 운용사](https://www.wisdomtree.com/us/products/fixed-income/usfr), [재무부 FRN 설명](https://treasurydirect.gov/marketable-securities/floating-rate-notes/), [연준 9/16](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm). 모두 9/29 접근.
+
+## 2026-09-03 기준 분석 보존
 
 - 기준시각: 2026-09-02 13:12 ET, 가격 $50.39 부근
 - 핵심 행동: **SGOV 미보유자만 조건부 매수·동시 보유는 회피**
@@ -104,6 +116,10 @@ decision_horizon: "1개월 이상"
 - 다음 확인 조건: SGOV 대비 수익률 차이 10bp, FOMC, NAV 괴리.
 - 사용한 질문: "sgov, usfr, flot 종목도 동일한 관점에서 분석해줘"
 
+### 2026-09-29 — 판단 이력 추가
+
+고금리 대응에서 SGOV의 대체 매수 후보로 판단했다. 이전의 동시 보유 회피는 분산효과가 작다는 뜻으로 한정한다. 최신 SEC 3.76%, 듀레이션 0.02년을 확인했고, 정책 인상이 주간 재설정의 장점을 강화했다. 향후 인하 때 분배율 하락도 빠르다는 점을 유지한다.
+
 ## 출처
 
 | ID | 자료 | 유형 | 발행일 | 접근일 | 지원하는 주장 |
@@ -113,4 +129,3 @@ decision_horizon: "1개월 이상"
 | S3 | [iShares SGOV 공식 페이지](https://www.ishares.com/us/products/314116/ishares-0-3-month-treasury-bond-etf) | 운용사 | 2026-08-31~09-01 | 2026-09-03 | SGOV 비교 데이터 |
 | S4 | [미국 재무부 FRN 설명](https://www.treasurydirect.gov/marketable-securities/floating-rate-notes/) | 정부 | 현행 | 2026-09-03 | 2년 만기, 13주 국채금리 연동, 주간 재설정 구조 |
 | S5 | [2026년 7월 FOMC 성명](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm) | 중앙은행 | 2026-07-29 | 2026-09-03 | 정책금리와 인플레이션 판단 |
-

@@ -4,6 +4,10 @@
 
 ## 등록 종목
 
+- [Berkshire Hathaway B (BRK.B)](xnys/brk.b.md): 고금리 현금 운용·보험·자본배분, $480~505 분할 매수와 A/B주 통합 가치
+- [Chubb (CB)](xnys/cb.md): 보험영업·재투자 수익, $295~315 대기와 재해·준비금 위험
+- [Consumer Staples Select Sector SPDR ETF (XLP)](arcx/xlp.md): 고금리·침체 우려의 방어적 주식 분산, 이익·가격 조건부 매수
+- [Energy Select Sector SPDR ETF (XLE)](arcx/xle.md): 유가발 인플레이션 대비 보조 자산, 침체·집중 위험
 - [Novo Nordisk ADR (NVO)](xnys/nvo.md): CMD 이후 성장 재평가, ADR 환율·정상화 이익·FCF, 신규 $35~36 조건부·기준 가치 약 $45
 - [UnitedHealth Group (UNH)](xnys/unh.md): 의료비율·준비금 효과와 규제 위험, 신규 $350 이하 대기·12~18개월 목표 약 $420
 - [펩시코 (PEP)](xnas/pep.md): $128~132 도달로 첫 분할 매수 전환, 목표 $153 유지·배당/FCF·10월8일 반증 기준
@@ -23,9 +27,9 @@
 - [iShares Preferred and Income Securities ETF (PFF)](xnas/pff.md): 9월 10일 동반 하락, 신규 보류, 금리와 금융기관 우선주 신용의 동시 안정 필요
 - [QXO, Inc. (QXO)](xnys/qxo.md): Beacon·Kodiak·TopBuild 통합, 완전희석 자본구조, 디레버리징과 신규 진입 가격
 - [Schwab U.S. Dividend Equity ETF (SCHD)](arcx/schd.md): 9월 하락의 금리·헬스케어 요인, 분배락 구분, 장기 유지·조건부 추가와 반등 확인 기준
-- [iShares 0-3 Month Treasury Bond ETF (SGOV)](xnys/sgov.md): 0~3개월 미국 국채, 현금성 코어 역할과 확장 인컴 포트폴리오
+- [iShares 0-3 Month Treasury Bond ETF (SGOV)](xnys/sgov.md): 9/29 고금리 지속기 달러 대기자금 우선, SEC3.67%·듀레이션0.10년
 - [iShares 20+ Year Treasury Bond ETF (TLT)](xnas/tlt.md): 미국 20년 이상 국채, 15년 듀레이션, 전술적 침체 헤지와 회피 가격
-- [WisdomTree Floating Rate Treasury Fund (USFR)](arcx/usfr.md): 주간 재설정 미국 국채 FRN, SGOV 대비 수익률과 대체 조건
+- [WisdomTree Floating Rate Treasury Fund (USFR)](arcx/usfr.md): 9/29 SEC3.76%·주간 재설정 미국 국채, SGOV 대체·환율 위험
 - [Vanguard Long-Term Corporate Bond ETF (VCLT)](xnas/vclt.md): 9월 10일 -1.16%, 신규 보류, 30년 금리·신용스프레드 반등 조건과 듀레이션 손실 관리
 - [현대글로비스 (086280)](xkrx/086280.md): 해운 마진 정상화, 현대차그룹 고객 집중도, 선대 투자와 신규 진입 가격
 - [NIKE, Inc. (NKE)](xnys/nke.md): 관세 환급 시점 왜곡과 FY27 이익, Running·도매 회복, 중국·Digital 점유율과 신규 진입 가격
