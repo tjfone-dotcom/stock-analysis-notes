@@ -33,5 +33,6 @@
 - [Vanguard Long-Term Corporate Bond ETF (VCLT)](xnas/vclt.md): 9월 10일 -1.16%, 신규 보류, 30년 금리·신용스프레드 반등 조건과 듀레이션 손실 관리
 - [현대글로비스 (086280)](xkrx/086280.md): 해운 마진 정상화, 현대차그룹 고객 집중도, 선대 투자와 신규 진입 가격
 - [NIKE, Inc. (NKE)](xnys/nke.md): 관세 환급 시점 왜곡과 FY27 이익, Running·도매 회복, 중국·Digital 점유율과 신규 진입 가격
+- [룰루레몬 (LULU)](xnas/lulu.md): 10/6 신규 매수 대기, 관세 환급 제외 EPS·글로벌 동일점 악화, 기준 가치 $104·$75~80 조건부 진입
 
 새 종목은 [종목 노트 템플릿](_template.md)을 복사하고 이 목록에 추가한다.
