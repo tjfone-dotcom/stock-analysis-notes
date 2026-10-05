@@ -225,7 +225,7 @@ H1 연결 영업현금흐름(CFO)은 $1,413m, 설비투자는 $526m이므로 단
 | S6 | [DICJ 월별 GGR](https://www.dicj.gov.mo/web/en/information/DadosEstat_mensal/2026/index.html), [페이지 원자료 XML](https://www.dicj.gov.mo/web/en/information/DadosEstat_mensal/2026/report_en.xml) | 마카오 규제기관 | 2026년 1~9월, 9월 자료 10월 1일 발표 | 월별·누적 GGR와 Q3 합산 |
 | S7 | [LVS 공식 배당 이력](https://investor.sands.com/stock-info/dividend-history/default.aspx) | 회사 IR | 2026-08-12 지급까지 | 최근 $0.30 분기 배당 |
 | S8 | [Sands China 2026 중간보고서](https://investor.sandschina.com/static-files/1d433370-488f-409e-80ec-3a548ec591bb) | 자회사 공시·IFRS | 2026년 8월, 06-30 기준 | 74.80% 지분, 10/9 배당 예정, 세금 협정 상태 |
-| S9 | [Sands China 2025 연차보고서](https://investor.sandschina.com/system/files-encrypted/nasdaq_kms/assets/2026/03/30/10-50-46/1_2025%20Annual%20Report.pdf) | 자회사 연차 공시 | 2025년 말, 2026년 3월 공개 | 총주식 수·모회사 보유주식, NCI 계산 출발점 |
+| S9 | [Sands China 2025 연차보고서](https://www.hkexnews.hk/listedco/listconews/sehk/2026/0331/2026033101127.pdf) | 홍콩거래소 연차 공시 | 2025년 말, 2026-03-31 공개 | 총주식 수·모회사 보유주식, NCI 계산 출발점 |
 | S10 | [Yahoo 1928.HK 가격](https://query1.finance.yahoo.com/v8/finance/chart/1928.HK?range=5d&interval=1d) | 시장 데이터 | 2026-10-05 08:08:03 UTC | HK$11.53, 홍콩장 종료 가격 |
 | S11 | [Yahoo USD/HKD](https://query1.finance.yahoo.com/v8/finance/chart/HKD=X?range=5d&interval=1d) | 시장 데이터 | 2026-10-05 16:59:28 UTC | 1달러=HK$7.8469, NCI 환산 |
 | S12 | [LVS 공식 이벤트](https://www.investor.sands.com/events-and-presentations/default.aspx) | 회사 IR | 접근일 현재 | 차기 실적일 공식 확인 실패 |
