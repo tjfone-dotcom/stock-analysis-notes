@@ -36,5 +36,6 @@
 - [룰루레몬 (LULU)](xnas/lulu.md): 10/6 신규 매수 대기, 관세 환급 제외 EPS·글로벌 동일점 악화, 기준 가치 $104·$75~80 조건부 진입
 - [Las Vegas Sands (LVS)](xnys/lvs.md): 10/6 기존 유지·신규 $33~35 조건부, 마카오 승률 보정 마진·MBS 투자 부담, 기준 가치 $45
 - [Aon plc (AON)](xnys/aon.md): 10/6 기존 유지·신규 $250~255 조건부, USI 인수·차입·통합 부담과 본업 5% 성장, 기준 가치 $312
+- [CVS Health Corporation (CVS)](xnys/cvs.md): 10/7 현재 소규모 분할매수·기준 가치 $102, Aetna 회복·정상화 EPS와 PBM 역풍, 11/4 추가 판단
 
 새 종목은 [종목 노트 템플릿](_template.md)을 복사하고 이 목록에 추가한다.
