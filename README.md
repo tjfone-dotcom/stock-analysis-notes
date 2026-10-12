@@ -39,5 +39,6 @@
 - [CVS Health Corporation (CVS)](xnys/cvs.md): 10/7 현재 소규모 분할매수·기준 가치 $102, Aetna 회복·정상화 EPS와 PBM 역풍, 11/4 추가 판단
 - [Boston Scientific Corporation (BSX)](xnys/bsx.md): 10/9 현재 소규모 분할매수·기준 가치 $49.50, 주력 성장 둔화·사이버 사고·Penumbra 부담, 10/28 추가 판단
 - [Realty Income Corporation (O)](xnys/o.md): 10/9 배당 목적 소규모 분할매수·기준 가치 $59.80, 배당 커버리지·고금리·외부자본 비용, 11/2 추가 판단
+- [SK텔레콤 (017670)](xkrx/017670.md): 10/12 기존 유지·신규 72,000~75,000원 조건부, 2026 AI 급등·조정과 현금 실현, 기준 가치 90,000원
 
 새 종목은 [종목 노트 템플릿](_template.md)을 복사하고 이 목록에 추가한다.
