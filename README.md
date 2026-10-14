@@ -4,6 +4,8 @@
 
 ## 등록 종목
 
+- [Liquidia Corporation · 리퀴디아 (LQDA)](xnas/lqda.md): 10/14 신규 매수 대기·기존 비중축소, PAH 핵심사업 현재가치 약 $20·조건부 매수 $15~17, 합의 후 매출 유지율·현금 검증
+
 - [Berkshire Hathaway B (BRK.B)](xnys/brk.b.md): 고금리 현금 운용·보험·자본배분, $480~505 분할 매수와 A/B주 통합 가치
 - [Chubb (CB)](xnys/cb.md): 보험영업·재투자 수익, $295~315 대기와 재해·준비금 위험
 - [Consumer Staples Select Sector SPDR ETF (XLP)](arcx/xlp.md): 고금리·침체 우려의 방어적 주식 분산, 이익·가격 조건부 매수
