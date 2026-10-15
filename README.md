@@ -28,7 +28,7 @@
 - [Meta Platforms (META)](xnas/meta.md): 광고 사업의 AI 수익화, 인프라 자본집약도, 청소년 안전 소송과 신규 진입 가격
 - [iShares Preferred and Income Securities ETF (PFF)](xnas/pff.md): 9월 10일 동반 하락, 신규 보류, 금리와 금융기관 우선주 신용의 동시 안정 필요
 - [QXO, Inc. (QXO)](xnys/qxo.md): Beacon·Kodiak·TopBuild 통합, 완전희석 자본구조, 디레버리징과 신규 진입 가격
-- [Schwab U.S. Dividend Equity ETF (SCHD)](arcx/schd.md): 9월 하락의 금리·헬스케어 요인, 분배락 구분, 장기 유지·조건부 추가와 반등 확인 기준
+- [Schwab U.S. Dividend Equity ETF (SCHD)](arcx/schd.md): 10/15 에너지·방어주 주도 반등, 기존 유지·신규 추격 보류와 $33.00~33.50 조건부 분할, 배당·고금리·12개월 전망
 - [iShares 0-3 Month Treasury Bond ETF (SGOV)](xnys/sgov.md): 9/29 고금리 지속기 달러 대기자금 우선, SEC3.67%·듀레이션0.10년
 - [iShares 20+ Year Treasury Bond ETF (TLT)](xnas/tlt.md): 미국 20년 이상 국채, 15년 듀레이션, 전술적 침체 헤지와 회피 가격
 - [WisdomTree Floating Rate Treasury Fund (USFR)](arcx/usfr.md): 9/29 SEC3.76%·주간 재설정 미국 국채, SGOV 대체·환율 위험
