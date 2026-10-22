@@ -4,6 +4,13 @@
 
 ## 등록 종목
 
+- [Lam Research (LRCX)](xnas/lrcx.md): 10/23 미국10/22 급락 후 소액 분할매수·본매수 $210~220, 2027말 기준 목표 $270·중국/설비투자 위험
+- [Applied Materials (AMAT)](xnas/amat.md): 10/23 신규 대기·$340~350 재검토, 2027말 기준 목표 $412·11/12 실적과 현금 전환
+- [KLA Corporation (KLAC)](xnas/klac.md): 10/23 신규 대기·$125~135 재검토, 2027말 기준 목표 $154·10/28 실적
+- [Arista Networks (ANET)](xnys/anet.md): 10/23 신규 대기·$145~155 재검토, SBC 포함 기준 미래목표 $185·11/3 실적
+- [Amazon (AMZN)](xnas/amzn.md): 10/23 신규 대기·10/29 실적 우선, 평가이익 제외 미래 기준 $269·$215~225 재검토
+- [Amphenol (APH)](xnys/aph.md): 10/23 급락 후보 선별만 실시·10/28 실적 확인, 분할 후 EPS 검증·목표가 미산정
+
 - [Cerebras Systems (CBRS)](xnas/cbrs.md): 10/22 신규 보류·기존 고비중 축소, 희석 반영 기준 현재가치 약 $84·$70~80 조건부 재검토, 11/12 실적
 - [Roundhill Neocloud ETF (NCLD)](xnas/ncld.md): 10/22 신규 보류·코어 비중 축소, NBIS·CRWV 경제적 노출60.42%와 조달·현금전환, 12개월 손익 시나리오
 
@@ -28,7 +35,7 @@
 - [iShares UK Gilts 0-5yr UCITS ETF (IGLS)](xlon/igls.md): 영국 단기 길트, 현금 대체 한계, GBP 부채 여부와 진입 조건
 - [iShares Core UK Gilts UCITS ETF (IGLT)](xlon/iglt.md): 영국 전 만기 길트, IEF 상대가치, 발행·환율 위험과 목표 진입가
 - [JPMorgan Equity Premium Income ETF (JEPI)](arcx/jepi.md): 방어적 미국 대형주, 옵션 프리미엄, ELN 위험과 포트폴리오 비중
-- [Meta Platforms (META)](xnas/meta.md): 광고 사업의 AI 수익화, 인프라 자본집약도, 청소년 안전 소송과 신규 진입 가격
+- [Meta Platforms (META)](xnas/meta.md): 10/23 신규 보류·고비중 축소 검토, Q3 현금 유출·법률 부담과 기존 목표 약 $650·진입 $525 유지
 - [iShares Preferred and Income Securities ETF (PFF)](xnas/pff.md): 9월 10일 동반 하락, 신규 보류, 금리와 금융기관 우선주 신용의 동시 안정 필요
 - [QXO, Inc. (QXO)](xnys/qxo.md): Beacon·Kodiak·TopBuild 통합, 완전희석 자본구조, 디레버리징과 신규 진입 가격
 - [Schwab U.S. Dividend Equity ETF (SCHD)](arcx/schd.md): 10/15 에너지·방어주 주도 반등, 기존 유지·신규 추격 보류와 $33.00~33.50 조건부 분할, 배당·고금리·12개월 전망
