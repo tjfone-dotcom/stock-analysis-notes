@@ -4,6 +4,9 @@
 
 ## 등록 종목
 
+- [Caterpillar · 캐터필러 (CAT)](xnys/cat.md): 10/29 신규 대기·기존 유지, 3분기 실적과 전력 수요·가치평가 검토
+
+
 - [Enphase Energy · 엔페이즈 (ENPH)](xnas/enph.md): 10/29 신규 회피·기존 고비중 축소, 기준 현재가치 약$18.8·$16~18 조건부 재검토, 수요·AMPTC·SST 검증
 
 
