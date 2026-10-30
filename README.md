@@ -58,7 +58,7 @@
 - [ACE 미국달러SOFR금리(합성) (456880)](xkrx/456880.md): 환율 반등 목적 목표 30%·최초 20%, 3년 최저 주장 검증과 분할 매수·축소 기준
 - [KODEX 머니마켓액티브 (488770)](xkrx/488770.md): 환차익 병행 바스켓의 원화 코어 목표 45%·최초 55%, 초단기 신용·금리 위험과 순성과
 - [TIGER CD1년금리액티브(합성) (475630)](xkrx/475630.md): 환차익 병행 바스켓의 원화 보조 25%, 일할 금리 누적·합성 위험·높은 1주 가격
-- [AppLovin Corporation (APP)](xnas/app.md): Axon 광고 엔진의 지속성, 성장률 정상화, 단일 제품·플랫폼 의존과 신규 진입 가격
+- [AppLovin · 앱러빈 (APP)](xnas/app.md): 10/30 소규모 분할·실적 전 주의, .51 장중·11/4 성장 검증
 - [DICK'S Sporting Goods, Inc. (DKS)](xnys/dks.md): 2Q26 실적 미스, Foot Locker 적자 전환, 가이던스 하향과 재설정한 신규 진입 가격
 - [iShares Floating Rate Bond ETF (FLOT)](bats/flot.md): 초저듀레이션 투자등급 회사채, 은행 집중, 신용스프레드 보상과 회피 조건
 - [State Street SPDR Bloomberg 15+ Year Gilt UCITS ETF (GLTL)](xlon/gltl.md): 영국 장기 길트, 15.3년 듀레이션, 장기 공급·환율 위험과 진입선
