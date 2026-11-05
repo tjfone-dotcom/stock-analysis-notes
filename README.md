@@ -4,6 +4,11 @@
 
 ## 등록 종목
 
+- [TSMC ADR (TSM)](xnys/tsm.md): 11/6 급락 대형주 2순위, 선단공정·지정학·설비투자 점검
+- [Broadcom (AVGO)](xnas/avgo.md): 11/6 급락 대형주 3순위, AI 주문형 칩·고객 집중 점검
+- [Microsoft (MSFT)](xnas/msft.md): 11/6 급락 대형주 4순위, Azure 성장·AI 현금투자 점검
+- [JPMorgan Chase (JPM)](xnys/jpm.md): 11/6 급락 대형주 5순위, 은행 자본·대손 및 유형장부가 점검
+
 - [NVIDIA · 엔비디아 (NVDA)](xnas/nvda.md): 11/6 AI 급락 시 신규 소액 분할 1순위, $180~185·$168~175 조건부, 11/17 실적·현금회수
 
 - [Arm Holdings · 암 (ARM)](xnas/arm.md): 11/6 소액 분할·기존 유지, $160~170 1차·$145~155 추가 조건부, 로열티·주식보상·AI CPU 마진
