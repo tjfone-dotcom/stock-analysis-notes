@@ -4,6 +4,8 @@
 
 ## 등록 종목
 
+- [Axon Enterprise (AXON)](xnas/axon.md): 11/7 실적 후 소액 $300~320, $280~290 스트레스 재평가, SaaS·주식보상·Skydio·현금 점검
+
 - [TSMC ADR (TSM)](xnys/tsm.md): 11/6 급락 대형주 2순위, 선단공정·지정학·설비투자 점검
 - [Broadcom (AVGO)](xnas/avgo.md): 11/6 급락 대형주 3순위, AI 주문형 칩·고객 집중 점검
 - [Microsoft (MSFT)](xnas/msft.md): 11/6 급락 대형주 4순위, Azure 성장·AI 현금투자 점검
