@@ -68,7 +68,7 @@
 - [Amazon (AMZN)](xnas/amzn.md): 10/23 신규 대기·10/29 실적 우선, 평가이익 제외 미래 기준 $269·$215~225 재검토
 - [Amphenol (APH)](xnys/aph.md): 10/23 급락 후보 선별만 실시·10/28 실적 확인, 분할 후 EPS 검증·목표가 미산정
 
-- [Cerebras Systems (CBRS)](xnas/cbrs.md): 10/22 신규 보류·기존 고비중 축소, 희석 반영 기준 현재가치 약 $84·$70~80 조건부 재검토, 11/12 실적
+- [Cerebras Systems (CBRS)](xnas/cbrs.md): 11/8 신규 보류·기존 고비중 축소, 11/9 보호예수 종료와 11/12 실적 확인 후 $75~80 조건부 재검토
 - [Roundhill Neocloud ETF (NCLD)](xnas/ncld.md): 10/22 신규 보류·코어 비중 축소, NBIS·CRWV 경제적 노출60.42%와 조달·현금전환, 12개월 손익 시나리오
 
 - [Liquidia Corporation · 리퀴디아 (LQDA)](xnas/lqda.md): 10/14 신규 매수 대기·기존 비중축소, PAH 핵심사업 현재가치 약 $20·조건부 매수 $15~17, 합의 후 매출 유지율·현금 검증
